@@ -409,3 +409,4 @@ SELECT * FROM silver.erp_px_cat_g1v2;
 SELECT * FROM silver.crm_sales_details;
 SELECT * FROM silver.crm_prd_info;
 
+CALL silver.load_silver();
